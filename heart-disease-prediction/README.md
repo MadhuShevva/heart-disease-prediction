@@ -1,16 +1,16 @@
-# ❤️ Heart Disease Risk Prediction using Machine Learning
+#  Heart Disease Risk Prediction using Machine Learning
 
 An end-to-end machine learning pipeline that predicts **heart disease risk in patients** using clinical data from the UCI Cleveland Heart Disease dataset — with a real-time Gradio prediction interface.
 
 ---
 
-## 🔍 Problem Statement
+## 🔍Problem Statement
 
 Heart disease is one of the leading causes of death globally. Early identification of high-risk patients using clinical parameters can enable timely intervention. This project builds a classification system to estimate patient-level heart disease risk.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** UCI Machine Learning Repository — Cleveland Heart Disease Dataset
 - **Records:** 303 patients, 14 clinical features
@@ -19,7 +19,7 @@ Heart disease is one of the leading causes of death globally. Early identificati
 
 ---
 
-## ⚙️ Pipeline
+## Pipeline
 
 ```
 Raw Data → Preprocessing & Feature Selection → Model Training → Stacking Ensemble → Gradio UI
@@ -38,7 +38,7 @@ Raw Data → Preprocessing & Feature Selection → Model Training → Stacking E
 
 ---
 
-## 📈 Model Results
+## Model Results
 
 | Model | Accuracy | F1 Score |
 |---|---|---|
@@ -51,7 +51,7 @@ Raw Data → Preprocessing & Feature Selection → Model Training → Stacking E
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **ML:** Python, Scikit-learn (Logistic Regression, Random Forest, AdaBoost, StackingClassifier)
 - **Data:** Pandas, NumPy, Matplotlib, Seaborn
@@ -60,7 +60,7 @@ Raw Data → Preprocessing & Feature Selection → Model Training → Stacking E
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
@@ -98,7 +98,7 @@ heart-disease-prediction/
 
 ---
 
-## 🔑 Key Techniques
+##  Key Techniques
 
 - Feature selection — 12 most clinically relevant features
 - One-hot encoding for categorical variables (cp, thal)
@@ -109,8 +109,8 @@ heart-disease-prediction/
 
 ---
 
-## 👤 Author
+## Author
 
 **Madhu Sudhan Reddy Shevva**  
 B.Tech CSE (Data Science) — CVR College of Engineering, Hyderabad  
-[LinkedIn](https://linkedin.com/in/madhusudhan-shevva-070a793ab) | [GitHub](https://github.com)
+[LinkedIn](https://linkedin.com/in/madhusudhan-shevva-070a793ab) | [GitHub](https://github.com/MadhuShevva)
